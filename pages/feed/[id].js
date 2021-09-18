@@ -15,6 +15,7 @@ export const Feed = ({ articles, pageNumber }) => {
             
             <div className={styles.main}>
                 
+<iframe src="https://public.domo.com/cards/bWxVg" width="100%" height="600" marginheight="0" marginwidth="0" frameborder="0"></iframe><br></br>
             <Badge dot>
       <NotificationOutlined style={{ fontSize: 38 }} />
     </Badge>
