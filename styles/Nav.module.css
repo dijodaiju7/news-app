@@ -1,0 +1,19 @@
+.nav {
+    height: 100px;
+    padding: 10px;
+    background: black;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family: 'Pacifico', cursive;
+font-size: 25pt;}
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.nav ul li a {
+    margin: 5px 15px;
+}
