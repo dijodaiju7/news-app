@@ -12,9 +12,16 @@ export const Feed = ({ articles, pageNumber }) => {
     return (
         
         <>
-            
+            <head>
+        <title>The Daily News | News App</title>
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+      </head>
             <div className={styles.main}>
                 
+
+
+
+
             <Badge dot>
       <NotificationOutlined style={{ fontSize: 38 }} />
     </Badge>
